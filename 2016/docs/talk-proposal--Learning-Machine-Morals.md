@@ -14,10 +14,10 @@ In a world where we interact with machines almost incessantly, Data Scientists a
 
 [Pasquale]: Pasquale, Frank A. "Internet nondiscrimination principles: commercial ethics for carriers and search engines." Seton Hall Public Law Research Paper1134159 (2008).
 
-## Author
+## Presenter
 
 [Irene Lang](https://www.linkedin.com/in/irene-lang-ab67a013)
 
-## Contributors
+## Contributor
 
 [Hobson Lane](https://www.linkedin.com/in/hobsonlane)
