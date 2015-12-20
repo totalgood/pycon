@@ -57,7 +57,9 @@ A. Introduce the basic ethical concepts underlying some applications of machine 
 B. Provide the audience with a practical example and python based tools for putting their ethical standards into practice thoughtfully.  
 C. Give practitioners a set of resources to continue research and learning on their own.  
 
-## References
+## More Info
+
+### References
 
 [Cowie]: Cowie, Roddy, and Marc Schröder. “Piecing together the emotion jigsaw.” Machine Learning for Multimodal Interaction. Springer Berlin Heidelberg, 2005. 305-317.
 
