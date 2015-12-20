@@ -30,20 +30,22 @@ The current consensus in academic literature and popular writing on ethical issu
 
 Practical Example -  (15 min)
 
-	A. Walk through an example with contrived, but realistic data
-     that shows the difference in a rank ordered list of college
-     applicants when potential financial contribution is weighted
-     increasingly heavily.  
-  B. Reverse the process: given two rank ordered list of
-     preferred candidates, and the set of features used to produce
-     the list take a look at the practical code used to determine
-     which list was produced using an algorithm biased to prefer
-     high financial contributors.  
-	C. Conclusion: What are the fundamental questions you have to
-     ask in order to implement these ideas in practice, and the
-     practical tools used to carry them out? 
+A. Walk through an example with contrived, but realistic data
+   that shows the difference in a rank ordered list of college
+   applicants when potential financial contribution is weighted
+   increasingly heavily.  
+B. Reverse the process: given two rank ordered list of
+   preferred candidates, and the set of features used to produce
+   the list take a look at the practical code used to determine
+   which list was produced using an algorithm biased to prefer
+   high financial contributors.  
+C. Conclusion: What are the fundamental questions you have to
+   ask in order to implement these ideas in practice, and the
+   practical tools used to carry them out?  
 
-Conclusion - Review of critical take aways, next steps, and resources. (5 min)
+### Conclusion (5 min)
+
+Review of critical take aways, next steps, and resources.
 
 ## Audience
 
@@ -52,9 +54,7 @@ Practitioners with a basic familiarity with machine learning, and commonly used 
 ## Objectives 
 
 A. Introduce the basic ethical concepts underlying some applications of machine learning.  
-
 B. Provide the audience with a practical example and python based tools for putting their ethical standards into practice thoughtfully.  
-
 C. Give practitioners a set of resources to continue research and learning on their own.  
 
 ## References
