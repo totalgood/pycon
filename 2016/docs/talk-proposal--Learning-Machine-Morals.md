@@ -19,19 +19,29 @@ In a world where we interact with machines almost incessantly, the Machine Learn
 In a world where we interact with machines almost incessantly, the Machine Learning practitioners and Data Scientists that create those machines are treated like magicians, Supermen and Superwomen. With power comes responsibility. That responsibility lies with both the individual and the organizations and communities they are a part of. We will demonstrate some practical Python modules for living up to that responsibility. This discussion is aimed at practitioners of machine learning at all levels. Familiarity with basic statistics and commonly used machine learning Python packages will enable attendees to follow the demonstration and duplicate our results. All attendees will leave the talk with a better understanding of common ethical considerations in machine learning, and useful practical tools for testing findings for indicators of fundamental assumptions, and demonstrating ethical bias in predictions on holdout sets. Recent machine learning technology advances and the availability of large volumes of data make it straight forward to tailor predictions to specific subsets of information content or features. A common ethical issue in ML is the manipulation of rank ordered lists output by predictive models - particularly when weights are assigned according to a personal preference rather than objective criteria alone. Consider the unweighting of university applications for students based on “features” other than pure academic potential, such as the likelihood of a family’s ability to make financial contributions to the institution. And consider the implications for everything from the way that search results are displayed when you query Google or Bing - a corollary to the debate about net neutrality - to the way that preferences can be tailored in online dating, organ-donor matching, or hiring. 
 
 ## Outline
-Intro - What are the ethical issues in ML and why should you care about them?  (5 min) 
 
-Lit Review - What is the current consensus in academic literature, and popular writing on potential issues with collaborative search, and predictive analytics? (5 min)
+### Intro (5 min.)
+
+The ethical issues in ML and why you should care about them?
+
+### Lit Review (5 min)
+
+The current consensus in academic literature and popular writing on ethical issues with collaborative search, and predictive analytics?
 
 Practical Example -  (15 min)
+
 	A. Walk through an example with contrived, but realistic data
      that shows the difference in a rank ordered list of college
      applicants when potential financial contribution is weighted
-     increasingly heavily.   
- 
-  B. Reverse the process: given two rank ordered list of 					preferred candidates, and the set of features used to produce 	the list take a look at the practical code used to determine 		which list was produced using an algorithm biased to prefer 		high financial contributors. 
-
-	C. Conclude: What are the fundamental questions you have to 		ask in order to implement these ideas in practice, and the 			practical tools used to carry them out? 
+     increasingly heavily.  
+  B. Reverse the process: given two rank ordered list of
+     preferred candidates, and the set of features used to produce
+     the list take a look at the practical code used to determine
+     which list was produced using an algorithm biased to prefer
+     high financial contributors.  
+	C. Conclusion: What are the fundamental questions you have to
+     ask in order to implement these ideas in practice, and the
+     practical tools used to carry them out? 
 
 Conclusion - Review of critical take aways, next steps, and resources. (5 min)
 
