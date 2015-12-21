@@ -1,5 +1,5 @@
-# PyCon Proposals, Talks, Lightning Talks and Code
+# PyCon 2016 Paper Proposal
 
-Subfolders arranged by year
+## Learning Machine Morals
 
-Subfolders call "docs" contain, well, docs (like talks and proposals in markdown and HTML)
+See the [draft proposal](docs/talk-proposal--Learning-Machine-Morals.md) for more details.
